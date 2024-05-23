@@ -56,9 +56,9 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 global.botname = "ASISTEN DAMZZ" //namabot kalian
 global.ownername = "ᴹᴿ᭄ DAMZZ ×፝֟͜×" //nama kalian
-global.myweb = "https://s.id/zeeoneofc" //bebas asal jan hapus
-global.youtube = "https://youtube.com/c/@ZeeoneOfc" //bebas asal jan hapus
-global.myweb2 = "https://s.id/zeeoneofc" //bebas
+global.myweb = "https://sociabuzz.com/4damzz" //bebas asal jan hapus
+global.youtube = "https://youtube.com/@adamfs96" //bebas asal jan hapus
+global.myweb2 = "https://sociabuzz.com/4damzz" //bebas
 global.email = "adamfebrian92@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
