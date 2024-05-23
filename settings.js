@@ -8,7 +8,7 @@ const {
 
 //sebagian panel gk support opena ai jadi mungkin apikey lu bakalan di blokir
 //klo misalkan pada saat memakai fitur ai, terus dapat email dari open si, itu berarti website tempat lu install bot gk support ai
-global.OpenAIKey = "YOUR_KEY" //login to https://platform.openai.com/account/api-keys to get apikey
+global.OpenAIKey = "sk-proj-n0KukTvSzG3hoaaItIqeT3BlbkFJfGR7lFfk9KS0HqhiEWqx" //login to https://platform.openai.com/account/api-keys to get apikey
 
 // Website Api (jgn di ganti tomlol)
 global.APIs = {
@@ -55,7 +55,7 @@ global.language = indonesia //change indonesia to english if you don't understan
 // Other
 // Other
 global.botname = "ASISTEN DAMZZ" //namabot kalian
-global.ownername = "ᴹᴿ᭄ DAMZZ ×፝֟͜×" //nama kalian
+global.ownername = "MAS DAMZZ" //nama kalian
 global.myweb = "https://sociabuzz.com/4damzz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/@adamfs96" //bebas asal jan hapus
 global.myweb2 = "https://sociabuzz.com/4damzz" //bebas
@@ -68,8 +68,8 @@ global.premium = ['6285977157375'] //premium user
 global.owner = ["6285977157375", "6285876602663"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = owner[0] + "@s.whatsapp.net"
 global.ownernomerr = "+"+ownernomer //tidak perlu di edit
-global.thumbnail = "./image/Haruka.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
-global.donasi = "./image/donasi.jpg" // foto donasi di folder image
+global.thumbnail = "./image/anime1.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.donasi = "./image/qriss.jpg" // foto donasi di folder image
 global.tag_owner = "./tag_owner.mp3" // audio ini akan di kirim apabila ada member yang menandai (tag) owner bot 
 global.background_welcome = "https://telegra.ph/file/edca4b513ddf29fd52c0e.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
